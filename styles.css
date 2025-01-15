@@ -283,7 +283,7 @@ nav a:hover {
 
 :root[data-theme="light"] .social-sidebar a {
     color: var(--text-color);
-}
+}<a href="https://discord.com/users/riefenstahl_" class="discord"><i class="fab fa-discord"></i></a>
 
 :root[data-theme="light"] .social-sidebar a:hover {
     color: var(--accent-color);
